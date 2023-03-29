@@ -10,10 +10,10 @@ The `data.json` file contains a hierarchical of Turkey's administrative division
 
 Represents a neighborhood within a district.
 
-| Field | Type | Description |
-| --- | --- | --- |
-| `name` | `string` | The name of the neighborhood. |
-| `code` | `string` | A unique code for the neighborhood. |
+| Field  | Type     | Description                       |
+|--------|----------|-----------------------------------|
+| `name` | `string` | The name of the neighborhood.     |
+| `code` | `string` | A post code for the neighborhood. |
 
 ### `District`
 
